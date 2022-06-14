@@ -1,18 +1,18 @@
 # This is the title
 
-## 1. [The first subject](https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#the-first-subject)
+## 1. [The first subject](https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#1-the-first-subject)
 
-## 2. [Second subject](https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#second-subject)
+## 2. [Second subject](https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#2-second-subject)
 
 ## 3. Third subject
 
-1. The first subject
+1 The first subject
 
 Direct download link will start the download immediately, without redirecting the downloader to a page on sendspace and showing ads. This way you can link from (or embed files directly into) web-pages and the visitor will stay on the page. File served at maximum speed and won't expire after 30 days of inactivity. See our Premium plans
 
 Pro Download Page
 
-2. Second subject
+2 Second subject
 
 One unified app for Meetings, Phone and Chat together on any device. Bundle Zoom Phone, Meetings and Chat together and save.
 
