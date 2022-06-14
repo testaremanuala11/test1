@@ -24,3 +24,5 @@ Apps are available for Windows, MacOS and Linux as well as for iOS and Android O
 3. Third subject
 
 Every step implementation has an equivalent code as per the language plugin used while installing Gauge. This code is run when the steps inside a spec are executed. Example. In the following example, the two sentences preceded by asterisk, *, are the unordered steps listed inside the Successful search scenario.
+
+ ![Picture](https://github.com/testaremanuala11/test1/blob/main/pdf-test.pdf)
