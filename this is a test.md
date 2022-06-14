@@ -1,8 +1,8 @@
 # This is the title
 
-## 1. [The first subject](https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#1-the-first-subject)
-
-## 2. [Second subject](https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#2-second-subject)
+## 1. [The first subject](#1-the-first-subject)
+(https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#1-the-first-subject)
+## 2. [Second subject](#2-second-subject)
 
 ## 3. Third subject
 
