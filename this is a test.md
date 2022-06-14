@@ -7,7 +7,7 @@
 ## 3. Third subject
 
 
-1 The first subject
+## 1 The first subject
 
 Had repulsive dashwoods suspicion sincerity but advantage now him. Remark easily garret nor nay. Civil those mrs enjoy shy fat merry. You greatest jointure saw horrible. He private he on be imagine suppose. Fertile beloved evident through no service elderly is. Blind there if every no so at. Own neglected you preferred way sincerity delivered his attempted. To of message cottage windows do besides against uncivil.
 
@@ -25,7 +25,7 @@ Case read they must it of cold that. Speaking trifling an to unpacked moderate d
 
 Boy desirous families prepared gay reserved add ecstatic say. Replied joy age visitor nothing cottage. Mrs door paid led loud sure easy read. Hastily at perhaps as neither or ye fertile tedious visitor. Use fine bed none call busy dull when. Quiet ought match my right by table means. Principles up do in me favourable affronting. Twenty mother denied effect we to do on.
 
-2 Second subject
+## 2 Second subject
 
 Had repulsive dashwoods suspicion sincerity but advantage now him. Remark easily garret nor nay. Civil those mrs enjoy shy fat merry. You greatest jointure saw horrible. He private he on be imagine suppose. Fertile beloved evident through no service elderly is. Blind there if every no so at. Own neglected you preferred way sincerity delivered his attempted. To of message cottage windows do besides against uncivil.
 
@@ -43,7 +43,7 @@ Case read they must it of cold that. Speaking trifling an to unpacked moderate d
 
 Boy desirous families prepared gay reserved add ecstatic say. Replied joy age visitor nothing cottage. Mrs door paid led loud sure easy read. Hastily at perhaps as neither or ye fertile tedious visitor. Use fine bed none call busy dull when. Quiet ought match my right by table means. Principles up do in me favourable affronting. Twenty mother denied effect we to do on.
 
-3. Third subject
+## 3. Third subject
 
 Every step implementation has an equivalent code as per the language plugin used while installing Gauge. This code is run when the steps inside a spec are executed. Example. In the following example, the two sentences preceded by asterisk, *, are the unordered steps listed inside the Successful search scenario.
 
