@@ -4,7 +4,7 @@
 (https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#1-the-first-subject)
 ## [Second subject](#2-second-subject)
 
-## [Third subject](#every-step)
+## [Third subject](#3-third-subject)
 
 
 ## 1. The first subject
