@@ -1,11 +1,10 @@
 # This is the title
 
-## 1. The first subject
+## 1. [The first subject](https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#the-first-subject)
 
-## 2. Second subject
+## 2. [Second subject](https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#second-subject)
 
 ## 3. Third subject
-
 
 1. The first subject
 
@@ -25,6 +24,8 @@ Apps are available for Windows, MacOS and Linux as well as for iOS and Android O
 
 Every step implementation has an equivalent code as per the language plugin used while installing Gauge. This code is run when the steps inside a spec are executed. Example. In the following example, the two sentences preceded by asterisk, *, are the unordered steps listed inside the Successful search scenario.
 
+This is the PDF
  [Pdf](https://github.com/testaremanuala11/test1/blob/main/pdf-test.pdf)
+ This is the image
  ![Image](https://github.com/testaremanuala11/test1/blob/main/Gull.jpg)
  
