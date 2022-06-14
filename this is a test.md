@@ -1,10 +1,10 @@
 # This is the title
 
-## 1. [The first subject](#1-the-first-subject)
+## [The first subject](#1-the-first-subject)
 (https://github.com/testaremanuala11/test1/blob/main/this%20is%20a%20test.md#1-the-first-subject)
-## 2. [Second subject](#second-subject)
+## [Second subject](#second-subject)
 
-## 3. Third subject
+## [Third subject](#every-step)
 
 
 ## 1 The first subject
